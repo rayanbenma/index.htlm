@@ -12,8 +12,10 @@ background-color: #2874a6;
 nav{
 background-color: #2874a6;
 padding: 10px 50px;
-font-size: 14px;
+}
+nav p{
 color: white;
+font-size: 14px;
 }
 
 section{
