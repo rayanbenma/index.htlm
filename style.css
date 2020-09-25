@@ -6,7 +6,9 @@
 	width: 100px;
 	height: 150px;
 	float: right;
-	margin: 20px;
+	margin-right: 5%;
+	padding: 35px 35px 0px 20px;
+	background-color: #2874a6;
 }	
 header h1{
 	text-align: center;
@@ -21,9 +23,13 @@ nav{
 nav p{
 	font-size: 14px;
 }
-section{
-	padding: 30px 20px 30px 20px;
-	background-color: grey	
+section {
+	padding: 30px 20px;
+	background: grey;
+	margin-right:20%;
+	margin-left: 2%;
+	margin-top: 2%;
+	margin-bottom: 2%; 
 }
 aside{
 	max-width: 20%;
@@ -32,9 +38,16 @@ aside{
 	float: right;
 }
 footer{
-	padding:  20px 0px 20px 0px;
+	position:absolute;
+	top:150%;
+	bottom: 0;
+	width: 100%;
+	padding-top:50px;	
 }
 footer p {
 	text-align: center;
 	font-size: 14px;
+}
+h3 {
+font-size: 25px;	
 }
