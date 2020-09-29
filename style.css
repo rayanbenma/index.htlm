@@ -24,8 +24,8 @@ nav p{
 	font-size: 14px;
 }
 section {
-	padding: 30px 20px;
-	background: grey;
+	padding: 0px 0px 30px 20px;
+	background: grey ;
 	margin-right:20%;
 	margin-left: 2%;
 	margin-top: 2%;
@@ -53,4 +53,8 @@ font-size: 25px;
 }
 #gris{
 	background: grey;
+}
+.gras{
+    font-weight: bold;
+    color: red;
 }
