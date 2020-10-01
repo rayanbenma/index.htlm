@@ -3,12 +3,12 @@
 	color: white;
 }
 #photo{
-	width: 200px;
-	height: 200px;
+	width: 175px;
+	height: 175px;
 	float: right;
 	margin-right: 5%;
 	padding: 35px 35px 0px 20px;
-	background-color: #2874a6;
+	/*background-color: #2874a6;*/
 }	
 header h1{
 	text-align: center;
@@ -25,7 +25,7 @@ nav p{
 }
 section {
 	padding: 0px 0px 30px 20px;
-	background: grey ;
+	
 	margin-right:20%;
 	margin-left: 2%;
 	margin-top: 2%;
@@ -39,14 +39,14 @@ aside{
 }
 footer{
 	position:absolute;
-	top:165%;
+	top:168%;
 	bottom: 0;
 	width: 100%;
 	padding-top:50px;	
 }
 footer p {
 	text-align: center;
-	font-size: 14px;
+	font-size: 2em;
 }
 h3 {
 font-size: 25px;	
@@ -57,4 +57,19 @@ font-size: 25px;
 .gras{
     font-weight: bold;
     color: red;
+}
+#box{
+width: 330px; 
+height:128px; 
+background: #2874a6 ;
+border:50px;
+float:right ;
+}
+#moitier{
+width: 750px;
+background:grey;
+}
+#ligne{
+width: 750px;
+float: left;	
 }
