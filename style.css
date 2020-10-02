@@ -65,11 +65,16 @@ background: #2874a6 ;
 border:50px;
 float:right ;
 }
-#moitier{
+#moitier{.
 width: 750px;
 background:grey;
 }
 #ligne{
 width: 750px;
 float: left;	
+}
+#limite
+{
+width: 750px;
+float: left;
 }
